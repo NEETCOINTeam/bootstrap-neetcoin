@@ -13,7 +13,7 @@ This copy works needs to be done in the state where the wallet is not in active(
 
 * The correct filename is 'bootstrap.dat'.
 * The correct place(PATH) to be copied is the wallet root directory where the wallet.dat of the wallet is located.  
-* PATH ex: C:\Users\(User)\AppData\Roaming\NEETCOIN
+* PATH ex: C:\Users\ (User) \AppData\Roaming\NEETCOIN
  
 After copy completed, start up wallet exe.  
 Until the file date of update, synchronization from localfile'bootstrap.dat' will begin.  
@@ -30,7 +30,7 @@ Until the file date of update, synchronization from localfile'bootstrap.dat' wil
 
 * リネームする正しい名前は「bootstrap.dat」です。
 * コピーする場所は、ウォレットのwallet.datがあるルートフォルダーです。
-* PATH 例: C:\Users\(User)\AppData\Roaming\NEETCOIN
+* PATH 例: C:\Users\ (User)\AppData\Roaming\NEETCOIN
 
 コピー完了後、ウォレットを起動します。  
 ローカル同期は生成された更新日まで行われます。  
