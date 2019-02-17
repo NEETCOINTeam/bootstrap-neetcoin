@@ -12,7 +12,8 @@ When using, it need to __uncompress__ and __copy__ to the correct place with the
 This copy works needs to be done in the state where the wallet is not in active(no working). 
 
 * The correct filename is 'bootstrap.dat'.
-* The correct place(PATH) to be copied is the root directory where the executable file(.exe) of the wallet is located.  
+* The correct place(PATH) to be copied is the wallet root directory where the wallet.dat of the wallet is located.  
+* PATH ex: C:\Users\(User)\AppData\Roaming\NEETCOIN
  
 After copy completed, start up wallet exe.  
 Until the file date of update, synchronization from localfile'bootstrap.dat' will begin.  
@@ -28,7 +29,8 @@ Until the file date of update, synchronization from localfile'bootstrap.dat' wil
 このコピーを行う際は、ウォレットは動作していない状態で行ってください。  
 
 * リネームする正しい名前は「bootstrap.dat」です。
-* コピーする場所は、ウォレットの実行ファイル（exe）があるルートフォルダーです。
+* コピーする場所は、ウォレットのwallet.datがあるルートフォルダーです。
+* PATH 例: C:\Users\(User)\AppData\Roaming\NEETCOIN
 
 コピー完了後、ウォレットを起動します。  
 ローカル同期は生成された更新日まで行われます。  
