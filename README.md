@@ -6,6 +6,7 @@ This file is compressed and has a file name indicating the date of update.
 このファイルは圧縮されており、ファイル名は生成時期の日付を示しています。
 （日本語の説明は下部）  
 
+# English
 ## How to
 When using, it need to __uncompress__ and __copy__ to the correct place with the correct file name.  
 This copy works needs to be done in the state where the wallet is not in active(no working). 
@@ -21,6 +22,7 @@ Until the file date of update, synchronization from localfile'bootstrap.dat' wil
 * Synchronization is until the update date when Bootstrap was created. In order to bring it up to date, so need a net sync after that.  
 * After synchronization is all completed, you can be deleted 'bootstrap.dat'.
 
+# Japanese
 ## 使い方
 使用する前に、圧縮を解凍し所定の正しい場所へ正しい名前にリネームしてコピーする必要があります。  
 このコピーを行う際は、ウォレットは動作していない状態で行ってください。  
